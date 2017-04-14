@@ -2,6 +2,7 @@
 echo "anshul";
 $another=$a=array(5,4,3,2,1);
 $n=5;
+echo "anshul";
 for($c=0;$c<$n-1;$c++)
 {
 	for($p=0;$p<$n-$c-1;$p++)
