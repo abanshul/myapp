@@ -1,4 +1,5 @@
 <?php 
+echo "anshul";
 $another=$a=array(5,4,3,2,1);
 $n=5;
 for($c=0;$c<$n-1;$c++)
